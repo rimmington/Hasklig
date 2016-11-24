@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
 		<key>com.typemytype.robofont.guides</key>
@@ -12,7 +12,7 @@
 				<key>magnetic</key>
 				<integer>5</integer>
 				<key>name</key>
-				<string></string>
+				<string />
 				<key>x</key>
 				<integer>300</integer>
 				<key>y</key>
@@ -3175,6 +3175,6 @@
 			<string>ampersand_ampersand</string>
 			<string>bar_greater</string>
 			<string>less_exclam_greater</string>
-		</array>
-	</dict>
+        <string>kleisli_left</string></array>
+        </dict>
 </plist>

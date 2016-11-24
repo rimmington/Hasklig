@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 	<dict>
 		<key>.notdef</key>
@@ -2630,5 +2630,7 @@
 		<string>cr_09.glif</string>
 		<key>CR.10</key>
 		<string>cr_10.glif</string>
-		</dict>
+    <key>kleisli_left</key>
+    <string>kleisli_left.glif</string>
+    </dict>
 </plist>

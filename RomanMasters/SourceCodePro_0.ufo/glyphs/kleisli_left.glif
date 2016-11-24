@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kleisli_left" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="-836" y="314" type="line"/>
+      <point x="-334" y="60" type="line"/>
+      <point x="-334" y="96" type="line"/>
+      <point x="-804" y="328" type="line"/>
+      <point x="-804" y="332" type="line"/>
+      <point x="-334" y="564" type="line"/>
+      <point x="-334" y="600" type="line"/>
+      <point x="-836" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="-36" y="328" type="line"/>
+      <point x="490" y="62" type="line"/>
+      <point x="490" y="98" type="line"/>
+      <point x="20" y="330" type="line"/>
+      <point x="20" y="334" type="line"/>
+      <point x="490" y="566" type="line"/>
+      <point x="490" y="602" type="line"/>
+      <point x="-36" y="336" type="line"/>
+    </contour>
+    <contour>
+      <point x="-637" y="416" type="line"/>
+      <point x="185" y="416" type="line"/>
+      <point x="185" y="444" type="line"/>
+      <point x="-637" y="444" type="line"/>
+    </contour>
+    <contour>
+      <point x="-637" y="216" type="line"/>
+      <point x="189" y="216" type="line"/>
+      <point x="189" y="244" type="line"/>
+      <point x="-637" y="244" type="line"/>
+    </contour>
+  </outline>
+</glyph>

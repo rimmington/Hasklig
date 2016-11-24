@@ -14,6 +14,9 @@ feature calt {
   sub \CR.03 \CR.03 \greater' by \less_asterisk_greater;
   sub \CR.04 \CR.04 \greater' by \greater_greater_greater;
   sub \CR.05 \CR.05 \greater' by \equal_equal_greater;
+  sub less' equal less by \CR.07;
+  sub \CR.07 equal' less by \CR.07;
+  sub \CR.07 \CR.07 less' by kleisli_left;
   sub \CR.00 \asterisk' \asterisk by \CR.00;
   sub \CR.00 \greater' \equal by \CR.00;
   sub \CR.00 \greater' \hyphen by \CR.00;
@@ -85,5 +88,3 @@ feature calt {
   sub \plus' \plus by \CR.01;
   sub \slash' \equal by \CR.00;
 } calt;
-
-
